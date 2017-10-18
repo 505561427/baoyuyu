@@ -1,0 +1,13 @@
+{
+    "name": "baoyuyu/baoyuyu",
+    "description": "This is a good thing",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "505561427",
+            "email": "baoyuyu7474741@qq.com"
+        }
+    ],
+    "require": {}
+}
